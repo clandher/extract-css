@@ -15,7 +15,7 @@
   "homepage": "https://github.com/jonkemp/inline-css/tree/master/packages/extract-css",
   "dependencies": {
     "batch": "^0.6.1",
-    "href-content": "^2.0.2",
+    "href-content": "github:clandher/href-content#master",
     "list-stylesheets": "^2.0.1",
     "style-data": "^2.0.1"
   }
